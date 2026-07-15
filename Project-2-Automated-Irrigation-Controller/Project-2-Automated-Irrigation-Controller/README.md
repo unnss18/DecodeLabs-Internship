@@ -34,7 +34,7 @@ But first the Soil Moisture Sensor's complete circuit has also been recreated an
 
 ## Hardware Implementation
 
-![Hardware Setup](images/your-college-photo.jpg)
+![Hardware Setup](images/hardware_connection.jpg)
 
 
 
