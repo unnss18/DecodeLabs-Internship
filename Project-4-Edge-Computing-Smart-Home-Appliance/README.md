@@ -36,7 +36,7 @@ The simulation accurately represents the hardware connections, interrupt-based c
 
 ## Tinkercad Circuit
 
-![Project Simulation](images/tinkercad.jpg)
+![Project Simulation](images/tinkercad.png)
 
 ---
 
