@@ -13,7 +13,9 @@ The sensor data is collected every 2 seconds and displayed on the Arduino Serial
 - Jumper Wires
 - USB Cable
 - LCD of 16x2
+## Circuit Image
 
+![Hardware Connection](arduino-dht11-sensor-1602-LCD-hardware-circuit.jpg)
 ## Connections
 
 | DHT11 | Arduino Uno |
