@@ -4,7 +4,7 @@
 
 This project interfaces a DHT11 temperature and humidity sensor with an Arduino Uno.
 
-The sensor data is collected every 2 seconds and displayed on the Arduino Serial Monitor.
+The sensor data is collected every 2 seconds and displayed on the Arduino Serial Monitor, by varying the room temperature around we can see the updates in every 2 secs.
 
 ## Components Used
 
@@ -12,6 +12,7 @@ The sensor data is collected every 2 seconds and displayed on the Arduino Serial
 - DHT11 Sensor
 - Jumper Wires
 - USB Cable
+- LCD of 16x2
 
 ## Connections
 
@@ -23,9 +24,9 @@ The sensor data is collected every 2 seconds and displayed on the Arduino Serial
 
 ## Output
 
-Temperature: 29°C
+Temperature: 18°C
 
-Humidity: 63%
+Humidity: 34%
 
 ## Skills Learned
 
